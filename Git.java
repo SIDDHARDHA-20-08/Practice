@@ -6,5 +6,6 @@ public class Git{
     public static void main(String[] args) {
         Git g = new Git();
         g.branch();
+        g.branch():
     }
 }
